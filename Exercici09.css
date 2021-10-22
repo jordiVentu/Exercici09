@@ -1,1 +1,56 @@
+body{
+  background-image: url("backgrounds/fons.png");
+  color: #615041;
+  font-size: arial;
+}
 
+div{
+ background-color: white;
+ opacity: 90%;
+}
+
+.capsalera{
+  text-align: center;
+}
+
+h1,h2,h3 {
+  color: #FF8A46;
+  text-transform: uppercase;
+  letter-spacing: -0.05em;
+}
+
+a{
+  color: #635240;
+}
+
+h1{
+  font-size: 52px;
+  interlineat: 150%
+}
+
+h3{
+  text-align: right;
+}
+
+#capsalera .subtitol{
+  font-style: italic;
+}
+
+a:hover{
+  color: white;
+  font-size: 150%;
+  background-color: #A54440;
+}
+
+span > p >div > #continguts {
+  background-color: #EADAC3;
+  font-weight: bold;
+}
+
+.brownie {
+  background-color: #EADAC3;
+  font-weight: bold;
+}
+h1.titol {
+  text-align: center;
+}
